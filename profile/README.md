@@ -1,12 +1,3 @@
-## Hi there 👋
+## OUR MISSION IS TO MAKE THE BEST CLIMATE RISK DATA, ANALYSIS AND TOOLS AVAILABLE FOR ALL 🌎 🌍 🌏
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The UW Climate Risk Lab (CRL) is a multidisciplinary research and innovation center based at the University of Washington Foster School of Business in the Department of Finance & Business Economics. Established in 2022, it advances data and technology solutions to issues in climate-related financial risk for corporate and government decision-makers. Phillip Bruner, co-founder of the CRL, currently serves as its Executive Director.
